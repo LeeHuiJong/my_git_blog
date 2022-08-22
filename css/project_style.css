@@ -15,12 +15,12 @@ html, body{
 .text_title{
     font-size: 40px;
     font-weight: bold;
-    color: #8258FA;
+    color: darkslateblue;
     margin-bottom: 10px;
 }
 .page_contents{
     width: 75%;
-    border: solid #8258FA;
+    border: solid darkslateblue;
     text-align: center;
     margin-left: 12%;
     margin-bottom: 90px;
@@ -28,7 +28,7 @@ html, body{
 .content_title{
     padding: 0.2em 0.4em;
     font-size: 22px;
-    background-color: #8258FA;
+    background-color: darkslateblue;
     color: white;
     font-weight: bold;
     border-radius:
