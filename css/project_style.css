@@ -19,15 +19,15 @@ html, body{
     margin-bottom: 10px;
 }
 .page_contents{
-    width: 75%;
+    width: 72%;
     border: solid darkslateblue;
     text-align: center;
-    margin-left: 12%;
+    margin-left: 14%;
     margin-bottom: 90px;
 }
 .content_title{
     padding: 0.2em 0.4em;
-    font-size: 22px;
+    font-size: 30px;
     background-color: darkslateblue;
     color: white;
     font-weight: bold;
